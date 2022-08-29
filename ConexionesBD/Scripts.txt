@@ -1,0 +1,8 @@
+------------------------------------------------
+        COMANDOS USADOS EN MONGO
+------------------------------------------------
+-show dbs
+-use <nombre_db>
+-use "sistema911"
+-show collections
+-db.usuarios.find()
